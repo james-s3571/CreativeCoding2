@@ -1,1 +1,1 @@
-To generate the image for this assignment, I chose ChatGPT. I mainly chose it because I already had it opened up, and it's the only AI that I have an account with that can generate an image. It was exactly what I expected. At this point AI images have been around for a while now, and I have seen enough AI images to now what the AI was going to make.
+
