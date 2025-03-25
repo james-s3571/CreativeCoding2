@@ -143,6 +143,7 @@ function draw()
             fill(0, 0, 0);
             textSize(100);
             text("You Win!", 50, 400);
+            health+=1;
         }
 
     if(health <= 0)
@@ -150,6 +151,7 @@ function draw()
             fill(0, 0, 0);
             textSize(100);
             text("You Lose!", 50, 400);
+            score-=1;
         }        
 }
 //FUNCTIONS
