@@ -139,11 +139,12 @@ function draw()
     {
         myAnimation.drawAnimation('attack')
         console.log("Attack animation triggered");
-        /*if (dist(myAnimation.getCurrentAnimation().position.x, myAnimation.getCurrentAnimation().position.y, catImage.position.x, catImage.position.y) < 200)
+        if (dist(myAnimation.getCurrentAnimation().position.x, myAnimation.getCurrentAnimation().position.y, catImage.position.x, catImage.position.y) < 200)
         {
-            console.log("destroy");
+            catImage.remove();
+            catImage = null;
         }
-        */    
+            
     }
     else
     {
