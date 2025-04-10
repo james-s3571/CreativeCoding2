@@ -37,7 +37,7 @@ function draw()
         text.textSize(25);
         translate(-295, -320);
         text.text('James Schoenfelder', 5, 100);
-        text.text('Sick Sun', 5, 200)
+        text.text('Sick Soccer', 5, 200)
         texture(text);
         plane(200, 150, 1, 1);
         pop();
